@@ -4,7 +4,7 @@ This project showcases the use of UiPath Studio to automate the consolidation an
 
 Features
 Consolidation: Data from five daily reports are merged into a single output file.
-Formatting: Structured formatting and headers are applied to ensure clarity and readability.
+Formatting: Structured formatting and headers are applied to ensure clarity and readability. 
 Pivot Table: A pivot table is created to analyze total income across various items.
 Pie Chart: A pie chart is generated to visualize the consolidated data effectively.
 UiPath Activities Used
