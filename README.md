@@ -6,6 +6,7 @@ Features
 Consolidation: Data from five daily reports are merged into a single output file.
 Formatting: Structured formatting and headers are applied to ensure clarity and readability.
 Pivot Table: A pivot table is created to analyze total income across various items.
+
 Pie Chart: A pie chart is generated to visualize the consolidated data effectively.
 UiPath Activities Used
 Excel Process Scope: Managing Excel files.
@@ -26,12 +27,14 @@ bash
 Copy
 Edit
 git clone https://github.com/charansingh14853/Coffee-shop-Excel-reports.git
+
 Open the project in UiPath Studio.
 Modify the input Excel files to match the expected format.
 Run the workflow to consolidate data and generate reports.
 Prerequisites
 UiPath Studio
 Microsoft Excel
+
 Screenshots
 Here’s how you can add images to your README file. Simply upload your images to the __images__ folder in your GitHub repository and reference them like this:
 
